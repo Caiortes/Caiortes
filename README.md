@@ -1,11 +1,13 @@
-### Olá!! Eu sou o Caio Machado
+### Olá!! Eu sou o Caio Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 Atualmente estudo front-end para aprender o básico da programação  
 - 🌱 Estudo Html,Css,Javascript e Typescript
 - 💬 Sou um um jovem extrovertido, sempre querendo aprender coisas novas. Podem contar comigo!!                                      
 - 📫 How to reach me: caiortes.machado@gmail.com
-- 😄 Pronouns: ele/dele
-<p>
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+</br>
   <a href="https://github.com/caiortes">
   <img height="180em" position="right" src="https://github-readme-stats.vercel.app/api?username=caiortes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiortes&layout=compact&langs_count=7&theme=dark"/>
@@ -22,7 +24,6 @@
   
  <div> 
   <a href="https://www.instagram.com/caio.terto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "caiortes.machado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-machado-2021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 

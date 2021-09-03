@@ -6,8 +6,6 @@
 - 📫 How to reach me: caiortes.machado@gmail.com
 - 😄 Pronouns: ele/dele
 <p>
-<img align="bellow" alt="coding" src="https://media-exp1.licdn.com/dms/image/C5622AQGe9KUzfzn09Q/feedshare-shrink_2048_1536/0/1614203569926?e=1632355200&v=beta&t=Stx-cMcz-F0AF_JeyToojivOUsqooZaZxefpCe9u5dk" width="408" height="318">
-<p>
   <a href="https://github.com/caiortes">
   <img height="180em" position="right" src="https://github-readme-stats.vercel.app/api?username=caiortes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiortes&layout=compact&langs_count=7&theme=dark"/>

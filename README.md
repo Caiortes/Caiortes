@@ -4,9 +4,6 @@
 - 🌱 Estudo Html,Css,Javascript e Typescript
 - 💬 Sou um um jovem extrovertido, sempre querendo aprender coisas novas. Podem contar comigo!!                                      
 - 📫 How to reach me: caiortes.machado@gmail.com
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 </br>
   <a href="https://github.com/caiortes">
   <img height="180em" position="right" src="https://github-readme-stats.vercel.app/api?username=caiortes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

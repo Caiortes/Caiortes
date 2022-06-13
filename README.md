@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Caio Machado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25vh">
+### Olá!! Eu sou o Caio Machado 
 
 - 🔭 Atualmente estudo front-end para aprender o básico da programação  
 - 🌱 Estudo Html,Css,Javascript e Typescript

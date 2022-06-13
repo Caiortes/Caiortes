@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Caio Machado 
 
 - 🔭 Atualmente estudo front-end para aprender a lógica da programação  
-- 🌱 Estudo Html,Css,Javascript 
+- 🌱 Estudo Html,Css e Javascript 
 - 💬 Sou um um jovem extrovertido, sempre querendo aprender coisas novas. Podem contar comigo!!                                      
 - 📫 How to reach me: caiortes.machado@gmail.com
 

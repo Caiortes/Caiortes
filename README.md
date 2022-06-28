@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Caio Machado 
+### Olá!! Eu sou o Caio Machado!! 
 
 - 🔭 Atualmente estudo front-end para aprender a lógica da programação  
 - 🌱 Estudo Html,Css e Javascript 

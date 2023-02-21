@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Caio Machado
 
 - 🔭 Atualmente estudo back-end utilizando NodeJS
-- 🌱 Estudo Html,Css,Javascript e NodeJS 
+- 🌱 Tenho conhecimento em HTML, CSS e JavaScript
 - 💬 Sou um um jovem extrovertido, sempre querendo aprender coisas novas. Podem contar comigo!!                                      
 - 📫 How to reach me: caiortes.machado@gmail.com
 
